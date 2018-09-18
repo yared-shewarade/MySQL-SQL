@@ -1,3 +1,3 @@
 # MySQL-SQL
-SQL homework
-the file is SQL Script and markdown
+SQL homework:-
+The file is SQL Script and markdown
